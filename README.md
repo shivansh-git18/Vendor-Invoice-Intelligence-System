@@ -2,7 +2,7 @@
 
 **AI-Powered Freight Cost Prediction & Invoice Risk Detection**
 
-[![Live App](https://img.shields.io/badge/Live-Streamlit-FF4B4B)](https://mayuresh0711-vendor-invoice-intelligence-system-app-sszyjb.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live-Streamlit-FF4B4B)](https://share.streamlit.io/)
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue)]()
 
 ---
