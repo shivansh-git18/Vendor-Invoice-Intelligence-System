@@ -200,12 +200,12 @@ Open: **http://localhost:8501**
 
 ## 📞 Contact
 
-**Mayuresh Ahire**  
+**Shivansh Kuamr Tripathi**  
 Data Analyst | Machine Learning
 
-- 🔗 **LinkedIn:** [linkedin.com/in/mayuresh-ahire-ab079b2a3/](https://www.linkedin.com/in/mayuresh-ahire-ab079b2a3/)
-- 🐙 **GitHub:** [github.com/mayuresh0711](https://github.com/mayuresh0711)
-- 📧 **Email:** ahiremayuresh4@gmail.com
+- 🔗 **LinkedIn:** (https://www.linkedin.com/in/shivanshkutrip/)
+- 🐙 **GitHub:** (https://github.com/shivansh-git18)
+- 📧 **Email:** tripathishivanshkumar@gmail.com
 
 ---
 
