@@ -184,8 +184,6 @@ python invoice_flagging/train.py
 streamlit run app.py
 ```
 
-Open: **http://localhost:8501**
-
 ---
 
 ## 🛠️ Technologies Used
