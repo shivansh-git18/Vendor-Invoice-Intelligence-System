@@ -42,17 +42,6 @@ Finance teams spend hours manually reviewing vendor invoices to detect:
 
 **Try it here:** (https://vendor-invoice-intelligence-system-q4tdq2d8f79m2oeq3n3cfd.streamlit.app/)
 
-### Screenshots
-
-**Homepage**
-![Application Home](images/app_home.png)
-
-**Freight Cost Prediction**
-![Freight Prediction](images/freight_prediction.png)
-
-**Invoice Risk Flagging**
-![Invoice Risk](images/invoice_risk.png)
-
 ---
 
 ## 💡 How It Works
